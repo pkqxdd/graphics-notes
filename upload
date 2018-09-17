@@ -1,0 +1,6 @@
+#!/bin/bash
+
+cd "${0%/*}"
+rm -r _build
+make html
+rsync -rvu _build/html/ root@join.cpu.party:/srv/graphics-notes

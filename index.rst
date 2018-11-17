@@ -7,14 +7,16 @@ This notebook is hosted on both of our personal websites. You can visit this pag
 
 
 - https://graphics.jerrywang.website/
-- https://graphics.mikegao.net/
+- https://www.mikegao.net/graphics
+
+You can find our code repository here: 
+- https://github.com/Mike-Gao/graphics
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Table of Contents
 
-   Week 1 <week1>
-   Week 2 <week2>
-
+   Weekly Update <weekly/index>
+   Summary <summary/index>
 
 Last updated on |today|.
